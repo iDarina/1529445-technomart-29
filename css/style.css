@@ -77,6 +77,8 @@ h1 {
 	color: var(--basic-light-blue);
 	background-color: var(--basic-light-grey);
 	font-size: 30px;
+	font-family: Cuprum;
+	font-style: normal;
 }
 .popular-goods a {
 	color: black;
@@ -107,4 +109,23 @@ h1 {
  }
  .bottom-footer {
  	background-color: var(--basic-dark-blue);
+ }
+ .text-services {
+ 	font-family: PT Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+ }
+ .title-section-services {
+ 	font-family: Cuprum;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+ }
+ .title-services {
+ 	font-family: Cuprum;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: var(--basic-light-blue);	
  }
