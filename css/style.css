@@ -1,0 +1,110 @@
+/* Variables */
+
+:root {
+	--basic-light-blue: #32425C;
+	--basic-dark-blue: #293449;
+	--basic-orange: #FFBF47;
+	--basic-red: #EE3643;
+	--basic-green: #63A63E;
+	--basic-light-grey: #F2F6F8;
+	--blue: #3BBCE3;
+	--orange: #FFBF47;
+	--purple: #DC91D8;
+	--green: #8ED78F;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+ul {
+	list-style-type: none;
+}
+.topbar {
+	background-color: var(--basic-dark-blue);
+}
+
+.middlebar {
+	background-color: var(--basic-light-grey);
+}
+.header-buttom {
+	background-color: white;
+	color: black;
+}
+.checkout {
+	background-color: var(--basic-green);
+}
+h1 {
+	color: var(--basic-red);
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+}
+.tel-header {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: var(--basic-red);
+	border: 2px solid white;
+}
+.address {
+	font-style: normal;
+	font-size: 14px;
+}
+.main-navigation {
+	background-color: var(--basic-light-blue);
+}
+.orange {
+	background-color: var(--orange);
+}
+.blue {
+	background-color: var(--blue);
+}
+.purple {
+	background-color: var(--purple);
+}
+.black {
+	background-color: black;
+}
+.green {
+	background-color: var(--green);
+}
+.offers {
+	color: white;
+}
+
+.section-header {
+	color: var(--basic-light-blue);
+	background-color: var(--basic-light-grey);
+	font-size: 30px;
+}
+.popular-goods a {
+	color: black;
+}
+.basic-buttom {
+	color: white;
+	background-color: var(--basic-red);
+	font-size: 14px;
+}
+.old-price {
+	color: #A9A9A9;
+	font-weight: bold;
+	font-size: 17px;
+}
+ .services {
+ 	background-color: var(--basic-light-grey);
+ }
+ .services-buttom {
+ 	background-color: var(--basic-light-blue);
+ 	color: white;
+ }
+ .services-buttom-active {
+ 	background-color: white;
+ 	color: var(--basic-light-blue);
+ }
+ .top-footer {
+ 	background-color: var(--basic-light-blue); 
+ }
+ .bottom-footer {
+ 	background-color: var(--basic-dark-blue);
+ }
