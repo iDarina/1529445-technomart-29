@@ -12,7 +12,9 @@
 	--purple: #DC91D8;
 	--green: #8ED78F;
 }
-
+body {
+	font-family: Cuprum, PT Sans, sans-serif;
+}
 .link {
 	text-decoration: none;
 
@@ -54,6 +56,10 @@
 .main-navigation {
 	background-color: var(--basic-light-blue);
 }
+.block-header {
+	font-weight: 700;
+	font-size: 24px;
+}
 .orange {
 	background-color: var(--orange);
 }
@@ -65,6 +71,7 @@
 }
 .black {
 	background-color: black;
+	font-size: 36px;
 }
 .green {
 	background-color: var(--green);
@@ -117,13 +124,13 @@
 	font-size: 13px;
  }
  .title-section-services {
- 	font-family: Cuprum, Arial, sans-serif;
+	font-family: PT Sans, Arial, sans-serif;
 	font-style: normal;
-	font-weight: normal;
+	font-weight: 400;
 	font-size: 30px;
  }
  .title-services {
- 	font-family: Cuprum, Arial, sans-serif;
+	
 	font-style: normal;
 	font-weight: normal;
 	font-size: 30px;
