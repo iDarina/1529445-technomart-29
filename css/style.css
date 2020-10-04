@@ -140,3 +140,9 @@ body {
  	color: white;
  	background-color: var(--basic-red);
  }
+ .link-name {
+	 text-decoration: none;
+	 font-family: PT Sans, Arial, sans-serif;
+	 font-size: 18px;
+	 font-weight: 700;
+ }
